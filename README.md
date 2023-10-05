@@ -10,3 +10,4 @@ this is for git hooks  of mahalogin
 shiva's githook
 1st commit by shiva
 2nd commit
+3rd commit
